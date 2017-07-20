@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="text_info">\t Habit Tracking app, which allow users to store and track their habits over time.
+        \n \t This project not have any UI components.</string>
+</resources>
